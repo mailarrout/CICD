@@ -1,5 +1,5 @@
-Scripts/
-Lib/
+/Scripts/
+/Lib/
 pyvenv.cfg
 venv/
 __pycache__/
